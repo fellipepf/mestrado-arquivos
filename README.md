@@ -1,7 +1,7 @@
 # Mestrado Profissional em Pesquisa Operacional e Inteligência Computacional
-Operational Research and Computational Intelligence
+Master's Degree in Operational Research and Computational Intelligence
 
-Universidade Candido Mendes – UCAM, Campos dos Goytacazes - RJ
+Universidade Candido Mendes – UCAM, Campos dos Goytacazes - RJ  \
 https://mpoic.ucam-campos.br/
 
 Repositório com os arquivos de algumas disciplinas cursadas durante o mestrado.
@@ -13,13 +13,12 @@ Engenharias III
 Pesquisa Operacional
 
 ##### Linhas de Pesquisa
-Inteligência Computacional e Otimização Combinatória
 
-Inteligência Computacional
+* Inteligência Computacional
 
 O objetivo desta linha é estudar e aplicar técnicas de Inteligência Computacional na solução de problemas relacionados à tomada de decisões, com objetivo de desenvolver e implantar produtos e sistemas úteis em diferentes setores de nossa Região.
 
-Otimização Combinatória
+* Otimização Combinatória
 
 O objetivo principal desta linha de pesquisa é modelar/implementar algoritmos heurísticos que gerem soluções aproximadas e algoritmos exatos, que utilizam conceitos de Programação Matemática e Grafos para resolução de problemas de Otimização Combinatória
 
@@ -27,13 +26,12 @@ O objetivo principal desta linha de pesquisa é modelar/implementar algoritmos h
 * ALGORITMOS E HEURÍSTICAS
 * ESTATÍSTICA
 * ESTRUTURA DE DADOS
-* Fluxo em Redes
+* FLUXO EM REDES
 * INTELIGÊNCIA COMPUTACIONAL 
 * MINERAÇÃO DE DADOS 
 * PROGRAMAÇÃO MATEMÁTICA I
-* Tópicos Avançados Em Inteligência Computacional
+* TÓPICOS AVANÇADOS EM INTELIGÊNCIA COMPUTACIONAL 
 * TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL 
-*
 
 ## Ementa das diciplinas
 
@@ -47,11 +45,11 @@ hipóteses e de aderência;ajuste de curvas pelo critério dos mínimos quadrado
 múltipla; modelos intrinsecamente lineares; previsão usando regressão linear; introdução à Estatística não-paramétrica;
 introdução à análise de séries temporais.
 
-##### Fluxo em Redes
+##### ESTRUTURA DE DADOS
 Análise de Algoritmos. Notação Assintótica, Medidas de complexidade, Algoritmos Recursivos e Algoritmos de Ordenação.
 Listas, Pilhas e Filas. Árvores Binárias de busca. Árvores Balanceadas, Árvore-B e Tabela Hash.
 
-##### Fluxo em Redes
+##### FLUXO EM REDES
 Teoria dos grafos: conceitos e terminologia. Representação computacional de grafos: matrizes de adjacência e incidência, listas de adjacência;Conexidade. Árvores. Ciclo Hamiltoniano e Ciclo Eureliano. Coloração de grafos. Métodos de busca em grafos: em profundidade e em largura. Problema da árvore geradora mínima. Algoritmos: Kruskal, Prim e Boruvka/Sollin.
 Problema de caminho mínimo: Algoritmos de Dijkstra e Floyd-Warshall. Problema de fluxo máximo: Teorema do fluxo máximo e capacidade de corte mínimo, algoritmo de Ford e Fulkerson e algoritmo preflowpush;Problema de fluxo de custo mínimo.
 
