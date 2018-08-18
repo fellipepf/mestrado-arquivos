@@ -1,5 +1,8 @@
 # Mestrado Profissional em Pesquisa Operacional e Inteligência Computacional
+Operational Research and Computational Intelligence
+
 Universidade Candido Mendes – UCAM, Campos dos Goytacazes - RJ
+https://mpoic.ucam-campos.br/
 
 Repositório com os arquivos de algumas disciplinas cursadas durante o mestrado.
 
@@ -23,6 +26,7 @@ O objetivo principal desta linha de pesquisa é modelar/implementar algoritmos h
 ## Disciplinas
 * ALGORITMOS E HEURÍSTICAS
 * ESTATÍSTICA
+* ESTRUTURA DE DADOS
 * Fluxo em Redes
 * INTELIGÊNCIA COMPUTACIONAL 
 * MINERAÇÃO DE DADOS 
@@ -38,6 +42,18 @@ Heurísticas Construtivas, Heurísticas de Melhoria, Metaheurísticas: Algoritmo
 
 ##### ESTATÍSTICA
 Probabilidade. Distribuição de Probabilidade: Discreta e Contínua. Estatística Descritiva. Amostragem, Estimação de Parâmetros, Teste de Hipótese, Testes NãoParamétricos, Intervalo de Confiança, Análise de Variância, Comparação de Várias Médias. 
+Intervalos de confiança para uma única população; intervalos de confiança para parâmetros de duas populações; testes de
+hipóteses e de aderência;ajuste de curvas pelo critério dos mínimos quadrados; regressão linear simples; regressão linear
+múltipla; modelos intrinsecamente lineares; previsão usando regressão linear; introdução à Estatística não-paramétrica;
+introdução à análise de séries temporais.
+
+##### Fluxo em Redes
+Análise de Algoritmos. Notação Assintótica, Medidas de complexidade, Algoritmos Recursivos e Algoritmos de Ordenação.
+Listas, Pilhas e Filas. Árvores Binárias de busca. Árvores Balanceadas, Árvore-B e Tabela Hash.
+
+##### Fluxo em Redes
+Teoria dos grafos: conceitos e terminologia. Representação computacional de grafos: matrizes de adjacência e incidência, listas de adjacência;Conexidade. Árvores. Ciclo Hamiltoniano e Ciclo Eureliano. Coloração de grafos. Métodos de busca em grafos: em profundidade e em largura. Problema da árvore geradora mínima. Algoritmos: Kruskal, Prim e Boruvka/Sollin.
+Problema de caminho mínimo: Algoritmos de Dijkstra e Floyd-Warshall. Problema de fluxo máximo: Teorema do fluxo máximo e capacidade de corte mínimo, algoritmo de Ford e Fulkerson e algoritmo preflowpush;Problema de fluxo de custo mínimo.
 
 ##### INTELIGÊNCIA COMPUTACIONAL
 Redes Neurais: Histórico, Introdução à Inteligência Computacional, Aplicações da Abordagem Conexionista (Redes Neurais): Aproximação de Funções, Reconhecimento de Padrões, Neurônios Naturais e Neurônios Artificiais, Modelo Artificial de McCulloch e Pitts e Regra de Hebb, Perceptron e Adaline, Aplicações. Lógica Nebulosa: Conceitos Básicos, Conjuntos Fuzzy, Lógica Fuzzy, Fuzzy Engineering. Sistemas Especialistas: Conceitos, Domínios de Aplicação do Processamento de Conhecimento, Engenharia de Conhecimento, Representação de Conhecimento e Inferência, Implementação de Sistemas Especialistas: Ferramentas e Formas de Integração com Sistemas Convencionais. 
