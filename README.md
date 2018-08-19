@@ -29,9 +29,10 @@ O objetivo principal desta linha de pesquisa é modelar/implementar algoritmos h
 * FLUXO EM REDES
 * INTELIGÊNCIA COMPUTACIONAL 
 * MINERAÇÃO DE DADOS 
+* MINERAÇÃO DE TEXTOS
 * PROGRAMAÇÃO MATEMÁTICA I
 * TÓPICOS AVANÇADOS EM INTELIGÊNCIA COMPUTACIONAL 
-* TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL 
+* TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL - Análise Orientada a Objetos: Especificação de Abstração
 
 ## Ementa das diciplinas
 
@@ -62,3 +63,11 @@ Ferramentas de Mineração de Dados.
 
 ##### PROGRAMAÇÃO MATEMÁTICA I
 A Abordagem da Pesquisa Operacional na Tomada de Decisões. Modelagem Matemática e as Técnicas da Pesquisa Operacional. Programação Linear: Formulação, Interpretação Gráfica. O Método Simplex, Dualidade, Análise de Sensibilidade e de Pós-Otimização. Uso de Softwares na Resolução Computacional de Problemas de Programação Linear.
+
+##### TÓPICOS AVANÇADOS EM INTELIGÊNCIA COMPUTACIONAL
+Algoritmos Genéticos, Redes Neurais, Lógica Fuzzy
+
+##### TÓPICOS ESPECIAIS EM INTELIGÊNCIA COMPUTACIONAL
+Comparação do paradigma OO com o estruturado, mostrando as desvantagens do paradigma estruturado e os benefícios de OO. Princípios fundamentais de OO (abstração, encapsulamento, modularidade, hierarquia). Conceitos básicos (classes, instâncias, propriedades, operações, métodos, visibilidade, associação, agregação, composição e herança) e avançados (tipos abstratos de dados, interfaces, classes abstratas, sobrecarga, polimorfismo, classe genéricas, classes aninhadas, classes anônimas, pacotes).
+Modelo de Estrutura (tipos, propriedades e invariantes), Modelo de Comportamento (tipos, responsabilidades e operações) e Modelo de Colaboração (casos de uso, operações e colaborações).
+Organização em pacotes. Composição de modelos e especificações. Model Driven Engineering (MDE): Definição de Metamodelo; DSL (Linguagem Específica de Domínio): metamodelo + notação; Transformações entre modelos. Paradigma de Orientação a Aspectos: Definição de orientação a aspectos; Conceitos: aspectos, componentes, pontos de junção, crosscutting e weaving. Domain models e aspectos; Modelagem orientada a aspectos (AOM).
